@@ -1,0 +1,23 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.www.gpuopenanalytics.com/superjp.html/sitemap.xml
+Sitemap: https://ftp.www.gpuopenanalytics.com/gilajp.html/sitemap.xml
+Sitemap: https://ftp.www.gpuopenanalytics.com/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.www.gpuopenanalytics.com/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.www.gpuopenanalytics.com/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.www.gpuopenanalytics.com/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.www.gpuopenanalytics.com/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.www.gpuopenanalytics.com/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.www.gpuopenanalytics.com/pakong86.html/sitemap.xml
+Sitemap: https://ftp.www.gpuopenanalytics.com/viral88.html/sitemap.xml
+Sitemap: https://ftp.www.gpuopenanalytics.com/clan4d.html/sitemap.xml
+Sitemap: https://ftp.www.gpuopenanalytics.com/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.www.gpuopenanalytics.com/elang212.html/sitemap.xml
+Sitemap: https://ftp.www.gpuopenanalytics.com/viral4d.html/sitemap.xml
